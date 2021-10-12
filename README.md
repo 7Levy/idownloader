@@ -3,7 +3,10 @@ Download file in Golang
 
 [![Build Status](https://github.com/Imputes/fdlr/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/Imputes/fdlr/actions)
 
+> Project source https://github.com/Imputes/fdlr
+
 ## Featues:
+
 * support HTTP and HTTPS
 * you can set the number of parallel to download
 * download batches of files concurrently
